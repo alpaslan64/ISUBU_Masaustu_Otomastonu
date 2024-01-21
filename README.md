@@ -32,7 +32,9 @@ Proje temelinde anladığınız gibi C# Form uygulaması içermektedir. İki aş
 <p>Gördüğünüz gibi en sık kullanılan <code>Dönem Dersleri</code>, <code>Devamsızlık Yoklama</code> ve <code>Ders Dökümanları</code> menüleri daha anlaşılır ve erişilebilir halde.</p>
 
 <h2>SON</h2>
-<p>Projemizi rahat ve sorunsuz kullanabilmeniz için bir Setup dosyası hazırlandı. Dosyayı indirip, hızlı ve basit adımlarla kurulumu tamamlayıp kullanmaya başlayabilirsiniz</p>
+<p>Projemizi rahat ve sorunsuz kullanabilmeniz için bir Setup dosyası hazırlandı. Dosyayı indirip, hızlı ve basit adımlarla kurulumu tamamlayıp kullanmaya başlayabilirsiniz.<br>
+<b><h3>İndirmek İçin <a href="https://github.com/alpaslan64/ISUBU_Masaustu_Otomastonu/raw/main/ISUBU%20OBS%20SETUP.exe" target="_blank">Tıklayabilirsiniz</h3></b>
+</p>
 
 <h2>Geliştiriciler</h2>
 <ul>
